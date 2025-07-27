@@ -1,0 +1,40 @@
+Intro to TypeScript - Example Syllabus
+
+Week 1: Introduction to TypeScript
+- What is TypeScript?
+- Setting up the development environment
+- Compiling TypeScript to JavaScript
+
+Week 2: Basic Types and Variables
+- Primitive types (string, number, boolean)
+- Arrays and tuples
+- Type inference
+
+Week 3: Functions and Interfaces
+- Function syntax and typing
+- Optional and default parameters
+- Defining and using interfaces
+
+Week 4: Classes and Objects
+- Class syntax and constructors
+- Inheritance and access modifiers
+- Working with objects
+
+Week 5: Advanced Types
+- Union and intersection types
+- Type aliases
+- Generics
+
+Week 6: Modules and Tooling
+- Importing and exporting modules
+- Using third-party type definitions
+- Configuring tsconfig.json
+
+Week 7: Practical Project
+- Building a simple CLI tool with TypeScript
+- Best practices and code organization
+
+Week 8: Review and Next Steps
+- Review key concepts
+- Resources for further learning
+- Final Q&A and
